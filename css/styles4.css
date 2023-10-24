@@ -1,0 +1,53 @@
+<head>
+<style type="text/css">
+body {
+  background-color: #f9f9fd;
+}
+  .box {
+  width: 300px;
+  background-color: rgb(214, 141, 134);
+  margin-right: auto;
+  margin-left: auto;
+}
+body {
+  background-color: #ababaf;
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #1412b4;
+  font-size: 20px;
+  
+}
+
+.parent {
+  background-color: #40c292;
+}
+
+.child {
+  max-width: 220px;
+  margin: 0 auto;
+  background-color: #6832e5;
+  text-align: center;
+}
+
+.parent,
+.child {
+  padding: 20px;
+  border-radius: 4px;
+  
+}
+
+.box {
+  width: 480px;
+  height: 160px;
+}
+
+.indigo {
+  background-color: #2a48f0;
+}
+
+.green {
+  background-color: #f8f528;
+}
+.box {
+  margin-right: auto;
+}

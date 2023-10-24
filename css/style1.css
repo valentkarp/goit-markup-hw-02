@@ -1,0 +1,37 @@
+<head>
+    <style type="text/css">
+    .social-links .link {
+  color: teal;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+  color: orange;
+}
+
+.social-links .link:active {
+  color: red;
+}
+
+.social-links .link:visited {
+  color: green;
+}
+.schedule-body > tr:hover {
+  background-color: rgb(71, 255, 209);
+  color: rgb(208, 52, 216);
+}
+
+/* Оформлення таблиці */
+.schedule {
+  border-collapse: collapse;
+}
+
+.schedule th,
+.schedule td {
+  padding: 12px;
+  border: 3px solid #212121;
+}
+.text {
+  background-color: tomato;
+  color: rgb(23, 230, 106);
+}

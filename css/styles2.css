@@ -1,0 +1,45 @@
+<head>
+<style type="text/css">
+.text > span {
+  text-decoration: underline;
+}
+
+.link {
+  text-decoration: none;
+}
+.site-nav .link {
+  text-transform: uppercase;
+}
+.post-title {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-justify {
+  text-align: justify;
+}
+.post-text {
+  text-indent: 100px;
+}
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.post-title {
+  letter-spacing: 2px;
+}
+
+.post-text {
+  letter-spacing: 1px;
+}
+.title {
+  color: #ed3737;
+  text-shadow: 2px -2px 4px #1a1aeb;
+}
+.title {
+  color: #4de09c;
+  text-shadow: -2px -4px -20px #ff0000, -5px -5px 5px #000000;
+}
